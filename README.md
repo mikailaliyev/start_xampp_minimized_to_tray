@@ -6,3 +6,7 @@ Requirements:
   - subprocess
   - time
   - pygetwindow
+
+Video instructions for making it autorun on Windows startup:
+
+[![Link to the video](https://img.youtube.com/vi/Jeg111JHmFk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Jeg111JHmFk)
